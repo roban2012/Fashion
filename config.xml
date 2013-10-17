@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="gb2312"?>
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.retter2012.moban"
+        id        = "com.retter2012.Fashion"
         version   = "2.0.0">
-    <name>moban</name>
+    <name>Fashion</name>
 
     <description>
     This is Beta version and development process for apps with FBC ideas. Open source code ONLY. All rights, excluding the codes, are reserved by the authors, i.e. retter2012.com and jobnet@188.com. 
