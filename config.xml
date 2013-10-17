@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="gb2312"?>
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.retter2012.moban"
+        version   = "2.0.0">
+    <name>moban</name>
+
+    <description>
+    This is Beta version and development process for apps with FBC ideas. Open source code ONLY. All rights, excluding the codes, are reserved by the authors, i.e. retter2012.com and jobnet@188.com. 
+    </description>
+
+    <author email="jobnet@188.com">
+     retter2012.com and jobnet@188.com
+    </author>
+
+    <feature name="http://api.phonegap.com/1.0/device" />
+
+    <preference name="phonegap-version" value="2.9.0" />
+    <preference name="orientation"      value="default" />
+    <preference name="target-device"    value="universal" />
+    <preference name="fullscreen"       value="false" />
+
+    <icon src="icon.png"/>
+    
+</widget>
